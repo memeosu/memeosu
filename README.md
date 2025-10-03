@@ -80,9 +80,6 @@
 <!-- Streak second -->
 ![Streak](https://streak-stats.demolab.com?user=memeosu&theme=tokyonight&hide_border=true)  
 
-<!-- Overall stats third -->
-![Stats](https://github-readme-stats.vercel.app/api?username=memeosu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
 <p align="center">
   <!-- Default GitHub contribution grid appears below README automatically -->
 </p>
