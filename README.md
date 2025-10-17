@@ -7,7 +7,7 @@
 
 ##  About Me
 🎓 CS Undergrad @ **SIT & DigiPen (Graduating 2027)**  
-🎮 Interested in ,ull Stack Development, Artificial Intelligence and Automation!
+🎮 Interested in Full Stack Development, Artificial Intelligence and Automation!
 ---
 
 ##  Featured Projects
