@@ -5,12 +5,12 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 🎓 CS Undergrad @ **SIT & DigiPen (Graduating 2027)**  
-🎮 Interested in Generative AI, Full Stack Development and Automation!
+🎮 Interested in ,ull Stack Development, Artificial Intelligence and Automation!
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 <div align="center">
 <table>
 <tr>
@@ -40,13 +40,22 @@
   <b>🌍 Terrain Analysis</b><br/>
   <sub>AI Visibility + Tactical Movement</sub>
 </td>
+<td width="300px" align="center">
+  <a href="https://youtu.be/dHZYB5iuJZw" target="_blank">
+    <img src="https://img.youtube.com/vi/dHZYB5iuJZw/0.jpg" width="280px" alt="BVH Graphics"/>
+  </a>
+  <br/>
+  <b>🌍 Bounding Volume Hierarchy Graphics</b><br/>
+  <sub> Hierarchical tree construction and  Hierarchical tree traversal | </sub>
+ </td>
+
 </tr>
 </table>
 </div>
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 ## Languages & Core Tools
 <p align="center">
@@ -60,7 +69,7 @@
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/jeremy-lim-ting-jie/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -70,8 +79,6 @@
 ---
 
 
-## 📊 GitHub Stats
-<div align="center">
 
 <!-- Languages Used first -->
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=memeosu&theme=tokyonight&hide_border=true&layout=compact)  
