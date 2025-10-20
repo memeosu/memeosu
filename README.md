@@ -20,7 +20,7 @@
   </a>
   <br/>
   <b>🎮 Grabity</b><br/>
-  <sub>Custom 2.5D Shooter | C++ Engine + OpenGL</sub>
+  <sub> Time-based <Grab & Shoot> 2.5D Shooter | Custom Game Engine built with C++ and OpenGL </sub>
 </td>
 
 <td width="300px" align="center">
@@ -29,7 +29,7 @@
   </a>
   <br/>
   <b>🤖 A* Pathfinding</b><br/>
-  <sub>AI Navigation + Visibility Mechanics</sub>
+  <sub>A* Pathfinding using Chebyshev, Euclidean, Manhattan, and Octile methods of calculating the distance, thus changing how A* found an optimal path. Correctness tested over 3000 different tests where the maze and starting position was different each time </sub>
 </td>
 
 <td width="300px" align="center">
@@ -37,16 +37,26 @@
     <img src="https://img.youtube.com/vi/NuNxwo1lcEM/0.jpg" width="280px" alt="Terrain Analysis"/>
   </a>
   <br/>
-  <b>🌍 Terrain Analysis</b><br/>
-  <sub>AI Visibility + Tactical Movement</sub>
+  <b>🤖 Terrain Analysis</b><br/>
+  <sub>AI Visibility + Tactical Movement using openness, visibility of the agent,  visibility of the map, and propagation. Added hide-and-seek minigame to demonstrate the aspects of terrain analysis </sub>
 </td>
 <td width="300px" align="center">
   <a href="https://youtu.be/dHZYB5iuJZw" target="_blank">
     <img src="https://img.youtube.com/vi/dHZYB5iuJZw/0.jpg" width="280px" alt="BVH Graphics"/>
   </a>
   <br/>
-  <b>🌍 Bounding Volume Hierarchy Graphics</b><br/>
-  <sub> Hierarchical tree construction and  Hierarchical tree traversal | </sub>
+  <b>🤖 Bounding Volume Hierarchy Graphics</b><br/>
+  <sub> Hierarchical tree construction and  Hierarchical tree traversal with raytracing </sub>
+ </td>
+ 
+</td>
+<td width="300px" align="center">
+ <a href="https://youtu.be/iHBNv2Lkxes" target="_blank">  
+       <img src="https://img.youtube.com/vi/iHBNv2Lkxes/0.jpg" width="280px" alt="Tactial Positioning"/>
+  </a>
+  <br/>
+  <b>🤖 Tactical AI decision-making and Positioning </b><br/>
+  <sub> Demonstrated in Unity |  Using a multi-factor scoring algorithm that considers distance from player, cover effectiveness through raycasting LOS, position relative to cover objects, cover dimensions, and accessibility through navigation mesh validation </sub>
  </td>
 
 </tr>
