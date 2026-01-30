@@ -1,6 +1,6 @@
-<!-- Animated Typing Header -->
+<!-- Static Header with Waving Emoji -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=900&size=42&duration=2000&pause=800&color=FF33AA&center=true&width=900&lines=Hello+there,+I'm+Jeremy;Aspiring+Software+Developer" alt="Typing SVG"/>
+  <h1 align="center">Hello there, I'm Jeremy <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" /></h1>
 </p>
 
 ---
@@ -29,7 +29,7 @@
   </a>
   <br/>
   <b>🤖 A* Pathfinding</b><br/>
-  <sub>A* Pathfinding using Chebyshev, Euclidean, Manhattan, and Octile methods of calculating the distance, thus changing how A* found an optimal path. Correctness tested over 3000 different tests where the maze and starting position was different each time </sub>
+  <sub>A* Pathfinding using Chebyshev, Euclidean, Manhattan, and Octile methods of calculating the distance, thus changing how A* found an optimal path. Correctness tested over 3000 different test cases </sub>
 </td>
 
 <td width="300px" align="center">
@@ -56,7 +56,7 @@
   </a>
   <br/>
   <b>🤖 Tactical AI decision-making and Positioning </b><br/>
-  <sub> Demonstrated in Unity |  Using a multi-factor scoring algorithm that considers distance from player, cover effectiveness through raycasting LOS, position relative to cover objects, cover dimensions, and accessibility through navigation mesh validation </sub>
+  <sub> Demonstrated in Unity |  Using a multi-factor scoring algorithm that considers distance from player, cover effectiveness through raycasting LOS, position relative to cover objects, cover direction, and threat assessment </sub>
  </td>
 
 </tr>
@@ -100,4 +100,3 @@
   <!-- Default GitHub contribution grid appears below README automatically -->
 </p>
 </div>
-
