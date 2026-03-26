@@ -92,11 +92,5 @@
 
 <!-- Languages Used first -->
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=memeosu&theme=tokyonight&hide_border=true&layout=compact)  
-
-<!-- Streak second -->
-![Streak](https://streak-stats.demolab.com?user=memeosu&theme=tokyonight&hide_border=true)  
-
-<p align="center">
-  <!-- Default GitHub contribution grid appears below README automatically -->
 </p>
 </div>
